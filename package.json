@@ -1,8 +1,8 @@
 {
-  "name": "my-first-gatsby-site",
+  "name": "cats_with_gatsby",
   "version": "1.0.0",
   "private": true,
-  "description": "My first Gatsby Site",
+  "description": "Un site de chatons mais avec Gatsby",
   "author": "CelineBarbe",
   "keywords": [
     "gatsby"
@@ -18,7 +18,7 @@
     "gatsby": "^4.3.0",
     "gatsby-plugin-image": "^2.3.0",
     "gatsby-plugin-sharp": "^4.3.0",
-    "gatsby-source-filesystem": "^4.3.0",
+    "gatsby-source-filesystem": "^4.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
